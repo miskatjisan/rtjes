@@ -1,0 +1,1 @@
+@extends('layouts.vendor_app_layout')
